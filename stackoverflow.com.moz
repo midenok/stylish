@@ -1,0 +1,9 @@
+@-moz-document domain("stackoverflow.com") {
+#overlay-header, #notify-container {
+    display: none !important;
+}
+.top-bar._fixed {
+    position: absolute !important;
+}
+
+}

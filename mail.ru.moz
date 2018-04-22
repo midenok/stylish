@@ -1,0 +1,5 @@
+@-moz-document domain("mail.ru") {
+#extension-bubble, .tgb, .notify, .games, .projects {
+    display: none !important;
+}
+}

@@ -1,0 +1,5 @@
+@-moz-document domain("vk.com") {
+#stories_feed_wrap {
+    display: none !important;
+}
+}

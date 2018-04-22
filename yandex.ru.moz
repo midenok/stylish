@@ -1,0 +1,8 @@
+@-moz-document domain("yandex.ru") {
+.popup2 {
+    display: none !important;
+}
+.n-compare_state_fixed .n-compare-head__content {
+    position: absolute !important;
+}
+}

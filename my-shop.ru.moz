@@ -1,0 +1,7 @@
+@-moz-document domain("my-shop.ru") {
+.redline, .rl_bulb0, .rl_bulb1, .rl_bulb2, .rl_bulb3, .rl_bulb4,
+.wmain-banner, .jcarousel-wrapper.anons,
+tr.bgCCCCCC {
+    display: none !important;
+}
+}
