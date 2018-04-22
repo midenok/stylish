@@ -1,2 +1,2 @@
 # stylish
-Stylish styles
+Remove some annoyances from a bunch of sites I use frequently with the help of [Stylish extension](https://en.wikipedia.org/wiki/Stylish) (download for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylish/), [Chrome](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)). Mostly unfixes top bar elements, removes floating stuff, etc.
