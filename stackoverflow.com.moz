@@ -2,6 +2,7 @@
 #overlay-header, #notify-container {
     display: none !important;
 }
+.so-header._fixed,
 .top-bar._fixed {
     position: absolute !important;
 }
