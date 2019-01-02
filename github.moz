@@ -1,0 +1,20 @@
+@-moz-document domain("github.com") {
+.pr-toolbar,
+.user-profile-sticky-bar,
+.user-profile-nav, .pagehead {
+    position: static !important;
+}
+.pr-toolbar-shadow,
+.user-profile-sticky-bar.is-stuck,
+.Popover-message, .gh-header-shadow, .toolbar-shadow {
+    display: none !important;
+}
+.js-issue-title {
+    font-size: 22px !important;
+    font-weight: normal !important;
+}
+.gh-header-number {
+    font-size: 22px !important;
+    font-weight: bold !important;
+}
+}
