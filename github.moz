@@ -1,7 +1,7 @@
 @-moz-document domain("github.com") {
 .pr-toolbar,
 .user-profile-sticky-bar,
-.user-profile-nav, .pagehead {
+.user-profile-nav, .pagehead, .sticky-content, .gh-header .gh-header-sticky {
     position: static !important;
 }
 .pr-toolbar-shadow,
