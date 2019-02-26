@@ -1,0 +1,6 @@
+@-moz-document domain("www.google.com") {
+#searchform {
+    position: absolute !important;
+}
+
+}
