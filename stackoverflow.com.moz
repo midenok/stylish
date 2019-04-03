@@ -1,4 +1,4 @@
-@-moz-document domain("stackoverflow.com") {
+@-moz-document domain("stackoverflow.com"), domain("askubuntu.com"), domain("superuser.com"), domain("serverfault.com"), domain("stackexchange.com") {
 #overlay-header, #notify-container {
     display: none !important;
 }
@@ -6,5 +6,4 @@
 .top-bar._fixed {
     position: absolute !important;
 }
-
 }
