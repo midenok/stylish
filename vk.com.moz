@@ -1,5 +1,24 @@
 @-moz-document domain("vk.com") {
-#stories_feed_wrap {
+#page_header_cont {
+    position: absolute !important;
+}
+#side_bar {
+    position: fixed !important;
+}
+.im-page_classic.im-page .im-page--header {
+   position: static !important;
+}
+.im-page_classic .im-page--chat-header,
+.ui_search.ui_search_fixed,
+.audio_page_player.audio_page_player_fixed,
+.audio_page_layout .audio_friends_fixed,
+.photos_period_delimiter_fixed {
+    position: relative !important;
+}
+.stories_feed_wrap,
+.lastfm_status {
     display: none !important;
 }
+
+
 }
