@@ -1,8 +1,20 @@
 @-moz-document domain("yandex.ru") {
-.popup2 {
-    display: none !important;
+.serp-header__wrapper,
+.popup2_fixed_yes,
+.header__wrapper,
+.header.header_fixed_yes
+{
+    position: absolute !important
 }
-.n-compare_state_fixed .n-compare-head__content {
-    position: absolute !important;
+.n-product-sticker_fixed_top .n-product-tabs,
+.n-compare_state_fixed .n-compare-head__content,
+.navigation_type_horizontal
+{
+    position: static !important
+}
+.header.header_fixed_yes .header__main,
+.header.header_fixed_yes .header__under
+{
+    position: absolute !important
 }
 }
