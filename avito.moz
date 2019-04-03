@@ -1,0 +1,5 @@
+@-moz-document domain("www.avito.ru") {
+.sticky-header {
+    position: absolute !important;
+}
+}
