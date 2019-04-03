@@ -1,12 +1,12 @@
 @-moz-document domain("github.com") {
 .pr-toolbar,
 .user-profile-sticky-bar,
-.user-profile-nav, .pagehead, .sticky-content, .gh-header .gh-header-sticky {
+.user-profile-nav, .pagehead, .sticky-content, .gh-header .gh-header-sticky, .sticky-file-header {
     position: static !important;
 }
 .pr-toolbar-shadow,
 .user-profile-sticky-bar.is-stuck,
-.Popover-message, .gh-header-shadow, .toolbar-shadow {
+.Popover-message, .gh-header-shadow, .toolbar-shadow, .js-notice {
     display: none !important;
 }
 .js-issue-title {
