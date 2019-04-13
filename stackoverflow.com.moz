@@ -1,5 +1,8 @@
 @-moz-document domain("stackoverflow.com"), domain("askubuntu.com"), domain("superuser.com"), domain("serverfault.com"), domain("stackexchange.com") {
-#overlay-header, #notify-container {
+#overlay-header,
+#notify-container,
+#announcement-banner
+{
     display: none !important;
 }
 .so-header._fixed,
