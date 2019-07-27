@@ -17,4 +17,10 @@
     font-size: 22px !important;
     font-weight: bold !important;
 }
+.col-9 {
+    width: 100% !important;
+}
+.container-lg, .timeline-new-comment {
+    max-width: 2000px !important;
+}
 }
