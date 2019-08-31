@@ -1,4 +1,7 @@
 @-moz-document domain("vk.com") {
+#stories_feed_wrap {
+    display: none !important;
+}
 #page_header_cont {
     position: absolute !important;
 }
