@@ -2,13 +2,14 @@
 .serp-header__wrapper,
 .popup2_fixed_yes,
 .header__wrapper,
-.header.header_fixed_yes
+.header.header_fixed_yes,
+.HeaderDesktop
 {
     position: absolute !important
 }
 .n-product-sticker_fixed_top .n-product-tabs,
 .n-compare_state_fixed .n-compare-head__content,
-.navigation_type_horizontal
+.navigation_type_horizontal, .AppAdvancedSearch
 {
     position: static !important
 }
