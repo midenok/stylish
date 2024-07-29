@@ -1,15 +1,51 @@
 @-moz-document domain("www.ozon.ru") {
-.bFlySearchPanel.mFixed .eFlySearchPanel_fixed
-{
-    position: relative !important;
+.container {
+  margin: 20px 20px 0px 40px !important;
+  padding: 0px 40px 0px 0px !important;
+  max-width: none !important;
 }
-.DYtopBanner
-{
-    display: none !important;
+header {
+  margin: 10px 20px 0px 40px !important;
+  padding: 0px 60px 0px 0px !important;
+  max-width: none !important;
 }
-.bReviveBanner
-{
-    display: none !important;
+#stickyHeader {
+  display: flex !important;
+}
+ .v8d {
+  margin: 10px 20px 0px 40px !important;
+  padding: 0px 0px 0px 0px !important;
+  max-width: none !important;
+}
+.rf4 {
+  margin: 5px 10px 5px !important;
 }
 
+.rf5 {
+   font-size: 10px !important; 
+}
+
+.f8r {
+  margin: 0px 0px 1px 0px !important;
+}
+
+ .er4 {
+	/*Your code should go under this comment*/
+  padding: 5px 10px 5px 10px !important;
+}
+
+.acc8, .b4ya, .ay4b, .c7ac, .a7cc, .da2c, footer {
+  display: none !important;
+}
+
+[data-widget="skuShelfGoods"], [data-widget="skuGrid"] {
+  display: none !important;
+}
+
+.widget-search-result-container div:first-child {
+  grid-template-columns: repeat(18,1fr) !important;
+}
+.tile-root {
+  grid-column-start: span 2 !important;
+}
 }
