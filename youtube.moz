@@ -11,4 +11,6 @@
     position: absolute !important;
     top: -50px !important;
 }
+/* HIDE THE "CHARACTERS REMAINING" COUNTER */
+p.comments-remaining {display:none!important;}
 }
