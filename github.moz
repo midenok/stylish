@@ -23,4 +23,8 @@
 .container-lg, .timeline-new-comment {
     max-width: 2000px !important;
 }
+.previewable-comment-form textarea, .CommentBox-container {
+    min-height: 700px !important;
+    max-height: 1500px !important;
+}
 }
