@@ -23,6 +23,7 @@
 .lastfm_status {
     display: none !important;
 }
-
-
+#top_notify_btn {
+  display: none !important;
+}
 }
