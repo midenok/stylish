@@ -1,0 +1,5 @@
+@-moz-document domain("www.ebay.com") {
+#nav-bar, .merch-placeholder {
+    display: none !important;
+}
+}

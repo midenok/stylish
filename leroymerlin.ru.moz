@@ -1,0 +1,5 @@
+@-moz-document domain("leroymerlin.ru") {
+.header-main.is-sticky {
+    position: static !important
+}
+}

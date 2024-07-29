@@ -1,0 +1,6 @@
+@-moz-document domain("forum.xda-developers.com") {
+#header, .navbits {
+    position: absolute !important;
+}
+
+}

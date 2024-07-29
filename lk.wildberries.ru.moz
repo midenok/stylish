@@ -1,0 +1,10 @@
+@-moz-document domain("lk.wildberries.ru") {
+.smm-fixed {
+    display: none !important;
+}
+.bottom_fixed {
+    display: none !important;
+    position: absolute !important;
+    bottom:0 !important;
+}
+}

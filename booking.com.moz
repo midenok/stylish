@@ -1,0 +1,15 @@
+@-moz-document domain("booking.com") {
+#netPromoterScore,
+.mlttd,
+.raf-banner--wrapper,
+.mltdcs__wrapper, .mltdcs__heading,
+.raf_bookings_entry__container
+{
+    display: none !important;
+}
+.conf_page_menu_sticky_wrapper.sticky, .fixed_filters
+{
+    position: static !important;
+}
+
+}

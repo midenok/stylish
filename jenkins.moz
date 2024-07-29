@@ -1,0 +1,5 @@
+@-moz-document domain("sunny.my.to") {
+.top-sticker, #top-sticker {
+    position: absolute !important;
+}
+}

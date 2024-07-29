@@ -1,0 +1,36 @@
+@-moz-document domain("developer.android.com") {
+.dac-header {
+    position: absolute !important;
+}
+
+.dac-nav-sidebar {
+    position: absolute !important;
+    overflow: visible !important;
+    height: 1000px;
+}
+
+#nav li {
+    font-size: 12px !important;
+    line-height: 12px !important;
+}
+
+#nav .nav-section-header .toggle-icon {
+    height: 24px !important;
+}
+
+#nav .nav-section-header {
+    padding: 0 0 0 0 !important;
+}
+
+#nav > li > div > a, #nav .nav-section li a {
+    padding: 7px !important;
+}
+
+.dac-nav-back-button {
+    font-weight: 300 !important;
+}
+
+.dac-swap-section.dac-active {
+    padding: 5px !important;
+}
+}

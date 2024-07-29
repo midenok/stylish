@@ -1,0 +1,14 @@
+@-moz-document domain("youtube.com") {
+#masthead-positioner {
+    position: absolute !important;
+}
+#page.watch,
+#guide {
+    position: static !important;
+}
+#appbar-guide-menu,
+#appbar-guide-iframe-mask {
+    position: absolute !important;
+    top: -50px !important;
+}
+}

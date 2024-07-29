@@ -1,0 +1,15 @@
+@-moz-document domain("www.ozon.ru") {
+.bFlySearchPanel.mFixed .eFlySearchPanel_fixed
+{
+    position: relative !important;
+}
+.DYtopBanner
+{
+    display: none !important;
+}
+.bReviveBanner
+{
+    display: none !important;
+}
+
+}

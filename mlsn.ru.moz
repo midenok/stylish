@@ -1,0 +1,5 @@
+@-moz-document domain("spb.mlsn.ru") {
+.sub-search-menu-fixed {
+    position: relative !important;
+}
+}

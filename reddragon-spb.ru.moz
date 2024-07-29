@@ -1,0 +1,5 @@
+@-moz-document domain("reddragon-spb.ru") {
+#footer-pane {
+    position: static !important;
+}
+}

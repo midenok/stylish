@@ -1,0 +1,12 @@
+@-moz-document domain("www.wildberries.ru") {
+#scrolled-socials
+{
+    display: none !important;
+}
+
+.bottom_fixed
+{
+    position: relative !important;
+}
+
+}

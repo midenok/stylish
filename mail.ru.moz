@@ -1,5 +1,11 @@
-@-moz-document domain("mail.ru") {
-#extension-bubble, .tgb, .notify, .games, .projects {
+@-moz-document domain("e.mail.ru") {
+#YaDirectLine {
+    display: none !important;
+}
+.b-sticky_yes {
+    position: static !important;
+}
+.form__actions_floating {
     display: none !important;
 }
 }

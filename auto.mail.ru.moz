@@ -1,0 +1,5 @@
+@-moz-document domain("auto.mail.ru") {
+.w-pm-menu_submenu {
+    	position: static !important;
+}
+}
